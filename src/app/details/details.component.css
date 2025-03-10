@@ -28,6 +28,13 @@
 .listing-features li {
   font-size: 14pt;
 }
+button {
+  padding: 10px;
+  border: solid 1px var(--primary-color);
+  background: var(--primary-color);
+  color: white;
+  border-radius: 8px;
+}
 li {
   list-style-type: none;
 }
